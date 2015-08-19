@@ -1,0 +1,59 @@
+*{
+	margin: 0;
+}
+body{
+	background-image:url(http://www.midoceanpartners.com/i/ocean_still.jpg);
+	font-family:proxima-nova,'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	font-size: 1.2rem;
+	margin:24px;
+}
+
+.profile-pic {
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 24px;
+}
+h1{
+	color:#fbf80b;
+}
+h2{
+	color:#f4d72c;
+}
+p{
+	color:#bad72b;
+}
+div,h1{
+	margin-left:220px;
+	border: solid 4px #f7c091;
+  	margin-bottom: 12px;
+  	padding: 12px;
+}
+.media{
+	max-width:100%;
+	max-height:100%;
+	margin-top:12px;
+}
+body{
+	text-align: center;
+}
+a{
+	color:#e8e8a7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
